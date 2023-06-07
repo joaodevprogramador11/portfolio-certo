@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-style: italic;
+}
+
+
+h1{
+    color: red;
+}
+
+p{
+    font-weight: 700;
+}
